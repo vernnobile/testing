@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0326" format="1">
-  <advance width="611"/>
+  <advance width="298"/>
   <unicode hex="0326"/>
   <outline>
     <contour>
-      <point x="329" y="0" type="move" name="_bot"/>
+      <point x="161" y="0" type="move" name="_bot"/>
     </contour>
     <contour>
-      <point x="194" y="-523" type="curve"/>
-      <point x="316" y="-523" type="line"/>
-      <point x="316" y="-523"/>
-      <point x="416" y="-176"/>
-      <point x="415" y="-134" type="curve"/>
-      <point x="241" y="-134" type="line"/>
-      <point x="241" y="-203"/>
-      <point x="194" y="-523"/>
+      <point x="95" y="-255" type="line"/>
+      <point x="95" y="-255"/>
+      <point x="118" y="-99"/>
+      <point x="118" y="-65" type="curve"/>
+      <point x="203" y="-65" type="line"/>
+      <point x="203" y="-86"/>
+      <point x="154" y="-255"/>
+      <point x="154" y="-255" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="1">
-  <advance width="1391"/>
+  <advance width="679"/>
   <unicode hex="20AC"/>
   <outline>
-    <component base="C" xOffset="-75"/>
+    <component base="C" xOffset="-37"/>
     <contour>
-      <point x="-53" y="528" type="line"/>
-      <point x="808" y="528" type="line"/>
-      <point x="815" y="643" type="line"/>
-      <point x="216" y="643" type="line"/>
-      <point x="216" y="817" type="line"/>
-      <point x="815" y="817" type="line"/>
-      <point x="822" y="930" type="line"/>
-      <point x="-41" y="930" type="line"/>
-      <point x="-46" y="817" type="line"/>
-      <point x="122" y="817" type="line"/>
-      <point x="122" y="643" type="line"/>
-      <point x="-46" y="643" type="line"/>
+      <point x="-26" y="258" type="line"/>
+      <point x="-22" y="314" type="line"/>
+      <point x="60" y="314" type="line"/>
+      <point x="60" y="399" type="line"/>
+      <point x="-22" y="399" type="line"/>
+      <point x="-20" y="454" type="line"/>
+      <point x="401" y="454" type="line"/>
+      <point x="398" y="399" type="line"/>
+      <point x="105" y="399" type="line"/>
+      <point x="105" y="314" type="line"/>
+      <point x="398" y="314" type="line"/>
+      <point x="395" y="258" type="line"/>
     </contour>
   </outline>
   <lib>

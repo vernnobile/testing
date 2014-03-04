@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="1">
-  <advance width="1058"/>
+  <advance width="516"/>
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="633" y="550" type="line"/>
-      <point x="998" y="1082" type="line"/>
-      <point x="815" y="1082" type="line"/>
-      <point x="545" y="680" type="line"/>
-      <point x="276" y="1082" type="line"/>
-      <point x="74" y="1082" type="line"/>
-      <point x="432" y="548" type="line"/>
-      <point x="52" y="-1" type="line"/>
-      <point x="235" y="-1" type="line"/>
-      <point x="519" y="419" type="line"/>
-      <point x="800" y="-1" type="line"/>
-      <point x="1002" y="-1" type="line"/>
+      <point x="309" y="269" type="line"/>
+      <point x="489" y="-0" type="line"/>
+      <point x="391" y="-0" type="line"/>
+      <point x="253" y="205" type="line"/>
+      <point x="115" y="-0" type="line"/>
+      <point x="25" y="-0" type="line"/>
+      <point x="211" y="268" type="line"/>
+      <point x="36" y="528" type="line"/>
+      <point x="135" y="528" type="line"/>
+      <point x="266" y="332" type="line"/>
+      <point x="398" y="528" type="line"/>
+      <point x="487" y="528" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,11 +26,11 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>22</integer>
+	    <key>width</key>	    <integer>11</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1034</integer>
-	    <key>width</key>	    <integer>21</integer>
+	    <key>position</key>	    <integer>505</integer>
+	    <key>width</key>	    <integer>10</integer>
 	  </dict>
 	</array>
       </dict>

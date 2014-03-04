@@ -11,21 +11,21 @@
 	<key>trademark</key>
 	<string>Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
 	<key>unitsPerEm</key>
-	<integer>2048</integer>
+	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>1082</integer>
+	<integer>528</integer>
 	<key>capHeight</key>
-	<integer>1456</integer>
+	<integer>711</integer>
 	<key>ascender</key>
-	<integer>1560</integer>
+	<real>761.719</real>
 	<key>descender</key>
-	<integer>-556</integer>
+	<real>-271.484</real>
 	<key>italicAngle</key>
 	<real>0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/02/11 21:03:22</string>
+	<string>2014/03/04 21:45:30</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -61,15 +61,15 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>1638</integer>
+	<integer>800</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>2390</integer>
+	<integer>1167</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2390</integer>
+	<integer>1167</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>512</integer>
+	<integer>250</integer>
 	<key>postscriptFontName</key>
 	<string>Comme-Regular</string>
 	<key>postscriptFullName</key>
@@ -80,5 +80,21 @@ http://scripts.sil.org/OFL
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>528</integer>
+		<integer>540</integer>
+		<integer>711</integer>
+		<integer>721</integer>
+		<integer>758</integer>
+		<integer>762</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-225</integer>
+		<integer>-202</integer>
+	</array>
     </dict>
 </plist>

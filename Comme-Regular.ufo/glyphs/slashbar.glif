@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashbar" format="1">
-  <advance width="854"/>
+  <advance width="416"/>
   <outline>
     <contour>
-      <point x="184" y="486" type="line"/>
-      <point x="777" y="811" type="line"/>
-      <point x="777" y="944" type="line"/>
-      <point x="184" y="619" type="line"/>
+      <point x="90" y="237" type="line"/>
+      <point x="90" y="302" type="line"/>
+      <point x="379" y="461" type="line"/>
+      <point x="379" y="396" type="line"/>
     </contour>
   </outline>
   <lib>

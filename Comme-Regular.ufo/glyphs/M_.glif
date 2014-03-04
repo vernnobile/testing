@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1815"/>
+  <advance width="886"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="921" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="183" y="-1" type="line"/>
-      <point x="366" y="-1" type="line"/>
-      <point x="366" y="479" type="line"/>
-      <point x="375" y="1203" type="line"/>
-      <point x="828" y="173" type="line"/>
-      <point x="986" y="173" type="line"/>
-      <point x="1442" y="1193" type="line"/>
-      <point x="1450" y="482" type="line"/>
-      <point x="1450" y="-1" type="line"/>
-      <point x="1632" y="-1" type="line"/>
-      <point x="1632" y="486" type="line"/>
-      <point x="1608" y="1456" type="line"/>
-      <point x="1383" y="1456" type="line"/>
-      <point x="909" y="396" type="line"/>
-      <point x="438" y="1456" type="line"/>
-      <point x="207" y="1456" type="line"/>
-      <point x="183" y="485" type="line"/>
+      <point x="89" y="-0" type="line"/>
+      <point x="89" y="237" type="line"/>
+      <point x="101" y="711" type="line"/>
+      <point x="214" y="711" type="line"/>
+      <point x="444" y="193" type="line"/>
+      <point x="675" y="711" type="line"/>
+      <point x="785" y="711" type="line"/>
+      <point x="797" y="237" type="line"/>
+      <point x="797" y="-0" type="line"/>
+      <point x="708" y="-0" type="line"/>
+      <point x="708" y="235" type="line"/>
+      <point x="704" y="583" type="line"/>
+      <point x="481" y="84" type="line"/>
+      <point x="404" y="84" type="line"/>
+      <point x="183" y="587" type="line"/>
+      <point x="179" y="234" type="line"/>
+      <point x="179" y="-0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,39 +31,39 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>185</integer>
+	    <integer>90</integer>
 	    <key>width</key>
-	    <integer>166</integer>
+	    <integer>81</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>214</integer>
+	    <integer>104</integer>
 	    <key>width</key>
-	    <integer>151</integer>
+	    <integer>74</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>332</integer>
+	    <integer>162</integer>
 	    <key>width</key>
-	    <integer>33</integer>
+	    <integer>16</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1463</integer>
+	    <integer>714</integer>
 	    <key>width</key>
-	    <integer>149</integer>
+	    <integer>73</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1463</integer>
+	    <integer>714</integer>
 	    <key>width</key>
-	    <integer>39</integer>
+	    <integer>19</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1477</integer>
+	    <integer>721</integer>
 	    <key>width</key>
-	    <integer>164</integer>
+	    <integer>80</integer>
 	  </dict>
 	</array>
       </dict>

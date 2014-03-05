@@ -1,1 +1,19 @@
-
+copyright_license: ofl
+copyright_notice: true
+design_category: sans
+familyname: Comme
+hinting_level: '5'
+hinting_quality: '5'
+license_file: README.md
+prints_ok: 'yes'
+process_files: [Comme-Regular.ufo]
+rfn_asserted: true
+rfn_permission: 'no'
+source_cff_filetype: true
+source_drawing_filetype: UFO
+source_ttf_filetype: UFO
+subset: [menu, latin, latin-ext+latin]
+trademark_notice: true
+trademark_permission: false
+ttfautohint: -l 8 -r 50 -G 200 -x 0 -f none -w G -W
+txt_files_copied: []

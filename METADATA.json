@@ -1,0 +1,25 @@
+{
+  "name": "Comme",
+  "designer": "Vernon Adams",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "",
+  "size": 27330,
+  "fonts": [
+    {
+      "name": "Comme",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Comme-Regular.ttf",
+      "postScriptName": "Comme-Regular",
+      "fullName": "Comme Regular",
+      "copyright": "Digitized data Copyright (c) 2011-2014, vernon adams."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "menu"
+  ],
+  "dateAdded": "2014-03-05"
+}

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1394043656
-ModificationTime: 1394148734
+ModificationTime: 1394148338
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1128,7 +1128,7 @@ Encoding: 65 65 0
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1171,7 +1171,7 @@ Encoding: 198 198 1
 Width: 784
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1221,7 +1221,7 @@ Encoding: 508 508 2
 Width: 784
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1232,8 +1232,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 134 180 N 1 0 0 1 372 191 2
-Refer: 1 198 N 1 0 0 1 0 0 3
+Refer: 134 180 N 1 0 0 1 514 190 2
+Refer: 1 198 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Aacute
@@ -1241,7 +1241,7 @@ Encoding: 193 193 3
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1261,7 +1261,7 @@ Encoding: 258 258 4
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1281,7 +1281,7 @@ Encoding: 194 194 5
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1301,7 +1301,7 @@ Encoding: 196 196 6
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1321,7 +1321,7 @@ Encoding: 192 192 7
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1341,7 +1341,7 @@ Encoding: 256 256 8
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1361,7 +1361,7 @@ Encoding: 260 260 9
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1381,7 +1381,7 @@ Encoding: 197 197 10
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1401,7 +1401,7 @@ Encoding: 506 506 11
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1413,7 +1413,7 @@ s."
 LayerCount: 2
 Fore
 Refer: 134 180 N 1 0 0 1 173 427 2
-Refer: 10 197 N 1 0 0 1 0 0 3
+Refer: 10 197 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Atilde
@@ -1421,7 +1421,7 @@ Encoding: 195 195 12
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1441,7 +1441,7 @@ Encoding: 66 66 13
 Width: 670
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1490,7 +1490,7 @@ Encoding: 67 67 14
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1532,7 +1532,7 @@ Encoding: 262 262 15
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1552,7 +1552,7 @@ Encoding: 268 268 16
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1572,7 +1572,7 @@ Encoding: 199 199 17
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1592,7 +1592,7 @@ Encoding: 264 264 18
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1612,7 +1612,7 @@ Encoding: 266 266 19
 Width: 699
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1632,7 +1632,7 @@ Encoding: 68 68 20
 Width: 732
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1673,7 +1673,7 @@ Encoding: 270 270 21
 Width: 732
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1721,7 +1721,7 @@ Encoding: 916 916 23
 Width: 651
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1779,7 +1779,7 @@ Encoding: 69 69 24
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -1821,7 +1821,7 @@ Encoding: 201 201 25
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1841,7 +1841,7 @@ Encoding: 276 276 26
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1861,7 +1861,7 @@ Encoding: 282 282 27
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1881,7 +1881,7 @@ Encoding: 202 202 28
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1901,7 +1901,7 @@ Encoding: 203 203 29
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1921,7 +1921,7 @@ Encoding: 278 278 30
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1941,7 +1941,7 @@ Encoding: 200 200 31
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -1961,7 +1961,7 @@ Encoding: 274 274 32
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2002,7 +2002,7 @@ SplineSet
  99 0 l 1
  99 711 l 1
  194 711 l 1
- 561 149 l 1
+ 560.711914062 148.807617188 l 1
  560 711 l 1
 EndSplineSet
 EndChar
@@ -2012,7 +2012,7 @@ Encoding: 280 280 34
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2081,7 +2081,7 @@ Encoding: 8364 8364 36
 Width: 679
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2122,36 +2122,21 @@ s."
 LayerCount: 2
 Fore
 SplineSet
--26 258 m 1
- -22 314 l 1
- 38 314 l 1
- 37 328 37 342 37 356 c 0
- 37 371 38 385 39 399 c 1
- -22 399 l 1
- -20 454 l 1
- 45 454 l 1
- 76 625 193 722 354 722 c 0
- 472 722 592 661 618 536 c 1
- 549 511 l 1
- 542 511 l 1
- 524 590 449 646 360 646 c 0
- 248 646 169 582 143 454 c 1
- 401 454 l 1
- 398 399 l 1
- 136 399 l 1
- 135 385 134 371 134 356 c 0
- 134 341 134 327 135 314 c 1
- 398 314 l 1
- 395 258 l 1
- 143 258 l 1
- 169 129 249 65 360 65 c 0
- 449 65 526 123 544 201 c 1
- 551 201 l 1
- 620 176 l 1
- 594 51 473 -10 354 -10 c 0
- 193 -10 76 87 45 258 c 1
- -26 258 l 1
+-26 258 m 257
+ -22 314 l 257
+ 60 314 l 257
+ 60 399 l 257
+ -22 399 l 257
+ -20 454 l 257
+ 401 454 l 257
+ 398 399 l 257
+ 105 399 l 257
+ 105 314 l 257
+ 398 314 l 257
+ 395 258 l 257
+ -26 258 l 257
 EndSplineSet
+Refer: 14 67 N 1 0 0 1 -37 0 2
 EndChar
 
 StartChar: F
@@ -2159,7 +2144,7 @@ Encoding: 70 70 37
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2199,7 +2184,7 @@ Encoding: 71 71 38
 Width: 721
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2244,7 +2229,7 @@ Encoding: 286 286 39
 Width: 721
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2264,7 +2249,7 @@ Encoding: 486 486 40
 Width: 721
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2275,8 +2260,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 204 177 2
-Refer: 38 71 N 1 0 0 1 0 0 3
+Refer: 165 711 N 1 0 0 1 173 183 2
+Refer: 38 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gcircumflex
@@ -2284,7 +2269,7 @@ Encoding: 284 284 41
 Width: 721
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2335,7 +2320,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 304 145 2
+Refer: 190 729 N 1 0 0 1 303.5 145 2
 Refer: 38 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2344,7 +2329,7 @@ Encoding: 72 72 44
 Width: 752
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2441,7 +2426,7 @@ Encoding: 292 292 46
 Width: 752
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2461,7 +2446,7 @@ Encoding: 73 73 47
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2503,7 +2488,7 @@ Encoding: 306 306 48
 Width: 864
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2532,7 +2517,7 @@ Encoding: 205 205 49
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2552,7 +2537,7 @@ Encoding: 300 300 50
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2572,7 +2557,7 @@ Encoding: 206 206 51
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2592,7 +2577,7 @@ Encoding: 207 207 52
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2612,7 +2597,7 @@ Encoding: 304 304 53
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2632,7 +2617,7 @@ Encoding: 204 204 54
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2652,7 +2637,7 @@ Encoding: 298 298 55
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2672,7 +2657,7 @@ Encoding: 302 302 56
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2692,7 +2677,7 @@ Encoding: 296 296 57
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2712,7 +2697,7 @@ Encoding: 74 74 58
 Width: 389
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2750,7 +2735,7 @@ Encoding: 308 308 59
 Width: 389
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2770,7 +2755,7 @@ Encoding: 75 75 60
 Width: 644
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2814,7 +2799,7 @@ Encoding: 310 310 61
 Width: 644
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2834,7 +2819,7 @@ Encoding: 76 76 62
 Width: 538
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -2870,7 +2855,7 @@ Encoding: 313 313 63
 Width: 538
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2890,7 +2875,7 @@ Encoding: 317 317 64
 Width: 538
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2910,7 +2895,7 @@ Encoding: 315 315 65
 Width: 538
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2930,7 +2915,7 @@ Encoding: 319 319 66
 Width: 538
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2993,18 +2978,18 @@ Fore
 SplineSet
 17 253 m 1
  17 318 l 1
- 99 363 l 1
+ 99 363.114186851 l 1
  99 711 l 1
  194 711 l 1
- 194 415 l 1
+ 194 415.380622837 l 1
  306 477 l 1
  306 412 l 1
- 194 350 l 1
+ 194 350.380622837 l 1
  194 71 l 1
  538 71 l 1
  535 0 l 1
  99 0 l 1
- 99 298 l 1
+ 99 298.114186851 l 1
  17 253 l 1
 EndSplineSet
 EndChar
@@ -3014,7 +2999,7 @@ Encoding: 77 77 68
 Width: 886
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3078,7 +3063,7 @@ Encoding: 78 78 69
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3120,7 +3105,7 @@ Encoding: 323 323 70
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3140,7 +3125,7 @@ Encoding: 327 327 71
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3160,7 +3145,7 @@ Encoding: 325 325 72
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3180,7 +3165,7 @@ Encoding: 209 209 73
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3200,7 +3185,7 @@ Encoding: 79 79 74
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3242,7 +3227,7 @@ Encoding: 338 338 75
 Width: 1149
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3314,7 +3299,7 @@ Encoding: 211 211 76
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3334,7 +3319,7 @@ Encoding: 334 334 77
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3354,7 +3339,7 @@ Encoding: 212 212 78
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3374,7 +3359,7 @@ Encoding: 214 214 79
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3394,7 +3379,7 @@ Encoding: 210 210 80
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3414,7 +3399,7 @@ Encoding: 336 336 81
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3434,7 +3419,7 @@ Encoding: 332 332 82
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3454,7 +3439,7 @@ Encoding: 216 216 83
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3506,7 +3491,7 @@ Encoding: 510 510 84
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3518,7 +3503,7 @@ s."
 LayerCount: 2
 Fore
 Refer: 134 180 N 1 0 0 1 224 183 2
-Refer: 83 216 N 1 0 0 1 0 0 3
+Refer: 83 216 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Otilde
@@ -3526,7 +3511,7 @@ Encoding: 213 213 85
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3546,7 +3531,7 @@ Encoding: 80 80 86
 Width: 638
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3618,11 +3603,11 @@ SplineSet
 76 352 m 0
  76 579 182 721 397 721 c 0
  607 721 715 578 715 351 c 0
- 715 172 646 45 503 4 c 1
- 542 -51 625 -166 630 -171 c 1
+ 715 172.428991051 646.560143629 44.1814059036 503.084977995 3.63147760531 c 1
+ 542.108642577 -51.1977275868 624.58938976 -166.362334084 630 -171 c 1
  569 -215 l 1
- 563 -210 464 -70 421 -9 c 1
- 413 -9 405 -10 397 -10 c 0
+ 563.494366011 -210.280885152 463.959653369 -70.7042759199 421.226505235 -9.3792745776 c 1
+ 413.3165108 -9.79183259262 405.24123122 -10 397 -10 c 0
  178 -10 76 130 76 352 c 0
 EndSplineSet
 EndChar
@@ -3632,7 +3617,7 @@ Encoding: 82 82 88
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3679,7 +3664,7 @@ Encoding: 340 340 89
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3699,7 +3684,7 @@ Encoding: 344 344 90
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3719,7 +3704,7 @@ Encoding: 342 342 91
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3739,7 +3724,7 @@ Encoding: 83 83 92
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3815,7 +3800,7 @@ Encoding: 346 346 93
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3835,7 +3820,7 @@ Encoding: 352 352 94
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3855,7 +3840,7 @@ Encoding: 350 350 95
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3875,7 +3860,7 @@ Encoding: 348 348 96
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3895,7 +3880,7 @@ Encoding: 536 536 97
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3915,7 +3900,7 @@ Encoding: 84 84 98
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -3953,7 +3938,7 @@ Encoding: 358 358 99
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3964,25 +3949,8 @@ p4
 s."
 LayerCount: 2
 Fore
-SplineSet
-140 350 m 1
- 140 399 l 1
- 232 399 l 1
- 232 640 l 1
- 3 640 l 1
- 3 711 l 1
- 558 711 l 1
- 558 640 l 1
- 328 640 l 1
- 328 399 l 1
- 426 399 l 1
- 426 350 l 1
- 328 350 l 1
- 328 0 l 1
- 232 0 l 1
- 232 350 l 1
- 140 350 l 1
-EndSplineSet
+Refer: 270 175 N 1 0 0 1 11 -298 2
+Refer: 98 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Tcaron
@@ -3990,7 +3958,7 @@ Encoding: 356 356 100
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4010,7 +3978,7 @@ Encoding: 354 354 101
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4027,7 +3995,7 @@ Encoding: 222 222 102
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4092,7 +4060,7 @@ Encoding: 85 85 103
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4132,7 +4100,7 @@ Encoding: 218 218 104
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4152,7 +4120,7 @@ Encoding: 364 364 105
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4172,7 +4140,7 @@ Encoding: 219 219 106
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4192,7 +4160,7 @@ Encoding: 220 220 107
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4212,7 +4180,7 @@ Encoding: 217 217 108
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4232,7 +4200,7 @@ Encoding: 368 368 109
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4252,7 +4220,7 @@ Encoding: 362 362 110
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4272,7 +4240,7 @@ Encoding: 370 370 111
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4292,7 +4260,7 @@ Encoding: 366 366 112
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4312,7 +4280,7 @@ Encoding: 360 360 113
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4369,7 +4337,7 @@ Encoding: 87 87 115
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4412,7 +4380,7 @@ Encoding: 7810 7810 116
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4432,7 +4400,7 @@ Encoding: 372 372 117
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4452,7 +4420,7 @@ Encoding: 7812 7812 118
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4463,8 +4431,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 187 168 N 1 0 0 1 261 151 2
-Refer: 115 87 N 1 0 0 1 0 0 3
+Refer: 187 168 N 1 0 0 1 262 183 2
+Refer: 115 87 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Wgrave
@@ -4472,7 +4440,7 @@ Encoding: 7808 7808 119
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4492,7 +4460,7 @@ Encoding: 88 88 120
 Width: 630
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4534,7 +4502,7 @@ Encoding: 89 89 121
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4573,7 +4541,7 @@ Encoding: 221 221 122
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4593,7 +4561,7 @@ Encoding: 374 374 123
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4613,7 +4581,7 @@ Encoding: 376 376 124
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4633,7 +4601,7 @@ Encoding: 7922 7922 125
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4653,7 +4621,7 @@ Encoding: 90 90 126
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4693,7 +4661,7 @@ Encoding: 377 377 127
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4713,7 +4681,7 @@ Encoding: 381 381 128
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4724,8 +4692,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 92 177 2
-Refer: 126 90 N 1 0 0 1 0 0 3
+Refer: 165 711 N 1 0 0 1 108 183 2
+Refer: 126 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Zdotaccent
@@ -4733,7 +4701,7 @@ Encoding: 379 379 129
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4753,7 +4721,7 @@ Encoding: 97 97 130
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4806,7 +4774,7 @@ Encoding: 225 225 131
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4826,7 +4794,7 @@ Encoding: 259 259 132
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4846,7 +4814,7 @@ Encoding: 226 226 133
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4866,7 +4834,7 @@ Encoding: 180 180 134
 Width: 357
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4891,7 +4859,7 @@ Encoding: 228 228 135
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4911,7 +4879,7 @@ Encoding: 230 230 136
 Width: 809
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -4968,10 +4936,10 @@ EndChar
 
 StartChar: aeacute
 Encoding: 509 509 137
-Width: 809
+Width: 824
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4982,8 +4950,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 134 180 N 1 0 0 1 247 10 2
-Refer: 136 230 N 1 0 0 1 0 0 3
+Refer: 136 230 N 1 0 0 1 0 0 2
+Refer: 134 180 N 1 0 0 1 242 0 2
 EndChar
 
 StartChar: uni01E3
@@ -4991,7 +4959,7 @@ Encoding: 483 483 138
 Width: 809
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5002,8 +4970,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 436 713 N 1 0 0 1 274 -43 2
-Refer: 136 230 N 1 0 0 1 0 0 3
+Refer: 270 175 N 1 0 0 1 166 8 2
+Refer: 136 230 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: agrave
@@ -5011,7 +4979,7 @@ Encoding: 224 224 139
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5031,7 +4999,7 @@ Encoding: 257 257 140
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5051,7 +5019,7 @@ Encoding: 38 38 141
 Width: 693
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5105,7 +5073,7 @@ Encoding: 261 261 142
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5125,7 +5093,7 @@ Encoding: 700 700 143
 Width: 314
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5150,7 +5118,7 @@ Encoding: 8776 8776 144
 Width: 562
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5221,7 +5189,7 @@ Encoding: 229 229 145
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5241,7 +5209,7 @@ Encoding: 507 507 146
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5252,8 +5220,8 @@ p4
 s."
 LayerCount: 2
 Fore
+Refer: 145 229 N 1 0 0 1 0 0 2
 Refer: 134 180 N 1 0 0 1 102 245 2
-Refer: 145 229 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: asciicircum
@@ -5261,7 +5229,7 @@ Encoding: 94 94 147
 Width: 632
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5298,7 +5266,7 @@ Encoding: 126 126 148
 Width: 582
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5402,7 +5370,7 @@ Encoding: 64 64 150
 Width: 947
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5456,7 +5424,7 @@ Encoding: 227 227 151
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5476,7 +5444,7 @@ Encoding: 98 98 152
 Width: 595
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5524,7 +5492,7 @@ Encoding: 92 92 153
 Width: 457
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5578,7 +5546,7 @@ Encoding: 124 124 154
 Width: 334
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5632,7 +5600,7 @@ Encoding: 123 123 155
 Width: 420
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5678,7 +5646,7 @@ Encoding: 125 125 156
 Width: 420
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5723,7 +5691,7 @@ Encoding: 91 91 157
 Width: 401
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5761,7 +5729,7 @@ Encoding: 93 93 158
 Width: 471
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5799,7 +5767,7 @@ Encoding: 728 728 159
 Width: 426
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5826,7 +5794,7 @@ Encoding: 785 785 160
 Width: 389
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -5853,7 +5821,7 @@ Encoding: 166 166 161
 Width: 323
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5912,7 +5880,7 @@ Encoding: 8226 8226 162
 Width: 445
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -5966,7 +5934,7 @@ Encoding: 99 99 163
 Width: 532
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6048,7 +6016,7 @@ Encoding: 263 263 164
 Width: 541
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6068,7 +6036,7 @@ Encoding: 711 711 165
 Width: 438
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6096,7 +6064,7 @@ Encoding: 65536 -1 166
 Width: 358
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6122,7 +6090,7 @@ Encoding: 269 269 167
 Width: 532
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6142,7 +6110,7 @@ Encoding: 231 231 168
 Width: 532
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6162,7 +6130,7 @@ Encoding: 265 265 169
 Width: 532
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6182,7 +6150,7 @@ Encoding: 267 267 170
 Width: 532
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6202,7 +6170,7 @@ Encoding: 184 184 171
 Width: 334
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6256,8 +6224,8 @@ Fore
 SplineSet
 269 678 m 1
  324 678 l 1
- 323 539 l 1
- 421 531 467 478 488 428 c 1
+ 323.13149087 539.038539135 l 1
+ 421.527032346 531.281749623 466.733121925 477.930931132 488 428 c 1
  433 396 l 1
  427 396 l 1
  403 440 368 473 302 473 c 0
@@ -6267,12 +6235,12 @@ SplineSet
  368 57 402 89 426 133 c 1
  433 133 l 1
  488 103 l 1
- 468 54 423 0 328 -9 c 1
+ 467.96862451 53.8320783416 423.066009099 0.518950029962 327.627040201 -8.62858292324 c 1
  320 -151 l 1
  263 -151 l 1
- 263 -8 l 1
- 136 8 58 111 58 265 c 0
- 58 420 137 523 264 538 c 1
+ 263 -7.87335622519 l 1
+ 136.394470678 7.93043500969 58 110.755202928 58 265 c 0
+ 58 419.548624948 136.703614123 522.474449234 263.748714982 537.965732863 c 1
  269 678 l 1
 EndSplineSet
 EndChar
@@ -6282,7 +6250,7 @@ Encoding: 710 710 173
 Width: 432
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6310,7 +6278,7 @@ Encoding: 58 58 174
 Width: 321
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6369,7 +6337,7 @@ Encoding: 44 44 175
 Width: 307
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6404,7 +6372,7 @@ Encoding: 806 806 176
 Width: 298
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6426,7 +6394,7 @@ Encoding: 786 786 177
 Width: 292
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6470,27 +6438,27 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-424 115 m 256
- 299 115 190 211 190 354 c 256
- 190 493 295 594 420 594 c 256
- 470 594 519 579 562 551 c 257
- 540 507 l 257
- 504 532 458 544 422 544 c 256
- 329 544 254 468 254 356 c 256
- 254 236 330 164 426 164 c 256
- 465 164 502 173 544 198 c 257
- 562 155 l 257
- 520 129 473 115 424 115 c 256
-414 33 m 256
- 578 33 734 148 734 355 c 256
- 734 563 578 677 414 677 c 256
- 251 677 96 563 96 355 c 256
- 96 147 251 33 414 33 c 256
-414 -11 m 256
- 227 -11 46 118 46 355 c 256
- 46 594 227 722 414 722 c 256
- 602 722 790 594 790 355 c 256
- 790 118 603 -11 414 -11 c 256
+423.5 115 m 256
+ 298.5 115 190.5 211 190.5 354 c 256
+ 190.5 493 295.5 594 420.5 594 c 256
+ 470.5 594 518.5 579 561.5 551 c 257
+ 539.5 507 l 257
+ 503.5 532 458.5 544 422.5 544 c 256
+ 329.5 544 253.5 468 253.5 356 c 256
+ 253.5 236 330.5 164 426.5 164 c 256
+ 465.5 164 502.5 173 544.5 198 c 257
+ 562.5 155 l 257
+ 520.5 129 472.5 115 423.5 115 c 256
+414.5 33 m 256
+ 578.5 33 734.5 148 734.5 355 c 256
+ 734.5 563 578.5 677 414.5 677 c 256
+ 251.5 677 96.5 563 96.5 355 c 256
+ 96.5 147 251.5 33 414.5 33 c 256
+414.5 -11 m 256
+ 227.5 -11 45.5 118 45.5 355 c 256
+ 45.5 594 227.5 722 414.5 722 c 256
+ 602.5 722 789.5 594 789.5 355 c 256
+ 789.5 118 603.5 -11 414.5 -11 c 256
 EndSplineSet
 EndChar
 
@@ -6499,7 +6467,7 @@ Encoding: 164 164 179
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6574,7 +6542,7 @@ Encoding: 100 100 180
 Width: 601
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6622,7 +6590,7 @@ Encoding: 8224 8224 181
 Width: 517
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6684,7 +6652,7 @@ Encoding: 8225 8225 182
 Width: 503
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6754,7 +6722,7 @@ Encoding: 783 783 183
 Width: 434
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6784,7 +6752,7 @@ Encoding: 271 271 184
 Width: 610
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6850,7 +6818,7 @@ Encoding: 176 176 186
 Width: 427
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6889,7 +6857,7 @@ Encoding: 168 168 187
 Width: 456
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -6919,7 +6887,7 @@ Encoding: 247 247 188
 Width: 573
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -6963,7 +6931,7 @@ Encoding: 36 36 189
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7001,15 +6969,15 @@ p17
 p18
 (dp19
 s."
-HStem: -9 74<186.757 267 331.772 390.121> 646 74<198.037 268.11 337 407.918>
-VStem: 57 95<479.194 603.558> 267 59<-145 -7.75628> 268 69<718.242 862> 448 90<116.817 253.942>
+HStem: -9.26979 74.2698<186.757 267 331.772 390.121> 646 73.8969<198.037 268.11 337 407.918>
+VStem: 57 95<479.194 603.558> 267 59<-145 -7.75628> 268.11 68.8898<718.242 862> 448 90<116.817 253.942>
 LayerCount: 2
 Fore
 SplineSet
 275 862 m 1xec
  337 862 l 1
- 337 719 l 1xec
- 417 712 485 679 528 629 c 1
+ 337 719.445115662 l 1xec
+ 416.614168029 712.085493816 485.008588989 679.010416891 528 629 c 1
  477 579 l 1
  470 579 l 1
  433 622 371 646 299 646 c 0
@@ -7017,11 +6985,11 @@ SplineSet
  152 485 176 467 254 435 c 2
  354 395 l 2
  470 349 538 313 538 187 c 0
- 538 55 438 2 332 -8 c 1
+ 538 55.4421213255 437.650776979 2.10922752555 331.772168801 -8.11713986778 c 1
  326 -145 l 1
  267 -145 l 1
- 267 -9 l 1xf4
- 167 -3 92 38 55 83 c 1
+ 267 -9.26979169937 l 1xf4
+ 166.612462831 -3.35260752274 91.9913161728 37.6856376883 55 83 c 1
  107 134 l 1
  113 134 l 1
  159 89 227 65 292 65 c 0
@@ -7029,7 +6997,7 @@ SplineSet
  448 255 416 274 312 317 c 2
  212 358 l 2
  113 398 57 429 57 529 c 0
- 57 666 155 713 268 720 c 1
+ 57 666.056520526 155.037554862 712.490091179 268.11015122 719.896868916 c 1
  275 862 l 1xec
 EndSplineSet
 EndChar
@@ -7039,7 +7007,7 @@ Encoding: 729 729 190
 Width: 221
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7064,7 +7032,7 @@ Encoding: 305 305 191
 Width: 257
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7098,7 +7066,7 @@ Encoding: 567 567 192
 Width: 290
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7136,7 +7104,7 @@ Encoding: 101 101 193
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7180,7 +7148,7 @@ Encoding: 233 233 194
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7200,7 +7168,7 @@ Encoding: 277 277 195
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7220,7 +7188,7 @@ Encoding: 283 283 196
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7240,7 +7208,7 @@ Encoding: 234 234 197
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7260,7 +7228,7 @@ Encoding: 235 235 198
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7280,7 +7248,7 @@ Encoding: 279 279 199
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7300,7 +7268,7 @@ Encoding: 232 232 200
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7320,7 +7288,7 @@ Encoding: 56 56 201
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7368,7 +7336,7 @@ Encoding: 8230 8230 202
 Width: 723
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7418,7 +7386,7 @@ Encoding: 275 275 203
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7438,7 +7406,7 @@ Encoding: 8212 8212 204
 Width: 1039
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7463,7 +7431,7 @@ Encoding: 8211 8211 205
 Width: 644
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7497,7 +7465,7 @@ Encoding: 331 331 206
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7532,7 +7500,7 @@ Encoding: 281 281 207
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7552,7 +7520,7 @@ Encoding: 61 61 208
 Width: 522
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7611,7 +7579,7 @@ Encoding: 8494 8494 209
 Width: 594
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7664,7 +7632,7 @@ Encoding: 240 240 210
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7715,7 +7683,7 @@ Encoding: 33 33 211
 Width: 349
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7756,7 +7724,7 @@ Encoding: 161 161 212
 Width: 349
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7784,7 +7752,7 @@ Encoding: 102 102 213
 Width: 371
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7831,7 +7799,7 @@ Encoding: 53 53 214
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -7877,7 +7845,7 @@ Encoding: 65537 -1 215
 Width: 658
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7897,7 +7865,7 @@ Encoding: 402 402 216
 Width: 504
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7936,7 +7904,7 @@ Encoding: 65538 -1 217
 Width: 657
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -7975,7 +7943,7 @@ Encoding: 52 52 218
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8020,7 +7988,7 @@ Encoding: 8260 8260 219
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8042,7 +8010,7 @@ Encoding: 103 103 220
 Width: 588
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8092,7 +8060,7 @@ Encoding: 287 287 221
 Width: 616
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8109,10 +8077,10 @@ EndChar
 
 StartChar: gcaron
 Encoding: 487 487 222
-Width: 588
+Width: 616
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8123,8 +8091,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 76 -4 2
-Refer: 220 103 N 1 0 0 1 0 0 3
+Refer: 220 103 N 1 0 0 1 0 0 2
+Refer: 165 711 N 1 0 0 1 80 -8 2
 EndChar
 
 StartChar: gcircumflex
@@ -8132,7 +8100,7 @@ Encoding: 285 285 223
 Width: 616
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8183,7 +8151,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 176 -36 2
+Refer: 190 729 N 1 0 0 1 175.5 -36 2
 Refer: 220 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8192,7 +8160,7 @@ Encoding: 223 223 226
 Width: 626
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8258,7 +8226,7 @@ Encoding: 96 96 227
 Width: 453
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8283,7 +8251,7 @@ Encoding: 62 62 228
 Width: 540
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8340,7 +8308,7 @@ Encoding: 8805 8805 229
 Width: 582
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8402,7 +8370,7 @@ Encoding: 171 171 230
 Width: 487
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8465,7 +8433,7 @@ Encoding: 187 187 231
 Width: 487
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8508,7 +8476,7 @@ Encoding: 8249 8249 232
 Width: 307
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8532,7 +8500,7 @@ Encoding: 8250 8250 233
 Width: 374
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8588,7 +8556,7 @@ Encoding: 104 104 234
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8681,7 +8649,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 173 710 N 1 0 0 1 90 211 2
+Refer: 173 710 N 1 0 0 1 90.5 211 2
 Refer: 234 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8690,7 +8658,7 @@ Encoding: 733 733 237
 Width: 396
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8720,7 +8688,7 @@ Encoding: 45 45 238
 Width: 420
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8754,7 +8722,7 @@ Encoding: 105 105 239
 Width: 290
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8784,7 +8752,7 @@ Encoding: 237 237 240
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8804,7 +8772,7 @@ Encoding: 301 301 241
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8824,7 +8792,7 @@ Encoding: 238 238 242
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8844,7 +8812,7 @@ Encoding: 521 521 243
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8864,7 +8832,7 @@ Encoding: 239 239 244
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8881,7 +8849,7 @@ Encoding: 65539 -1 245
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8898,7 +8866,7 @@ Encoding: 236 236 246
 Width: 257
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8918,7 +8886,7 @@ Encoding: 523 523 247
 Width: 261
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8938,7 +8906,7 @@ Encoding: 307 307 248
 Width: 576
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -8967,7 +8935,7 @@ Encoding: 299 299 249
 Width: 257
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -8987,7 +8955,7 @@ Encoding: 8734 8734 250
 Width: 810
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9055,7 +9023,7 @@ Encoding: 8747 8747 251
 Width: 474
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9128,7 +9096,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 289 731 N 1 0 0 1 -91 7 2
+Refer: 289 731 N 1 0 0 1 -91 6.9 2
 Refer: 239 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9137,7 +9105,7 @@ Encoding: 297 297 253
 Width: 257
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9154,7 +9122,7 @@ Encoding: 106 106 254
 Width: 286
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9188,7 +9156,7 @@ Encoding: 309 309 255
 Width: 288
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9208,7 +9176,7 @@ Encoding: 107 107 256
 Width: 536
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9253,7 +9221,7 @@ Encoding: 311 311 257
 Width: 552
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9273,7 +9241,7 @@ Encoding: 312 312 258
 Width: 531
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9306,7 +9274,7 @@ Encoding: 108 108 259
 Width: 313
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9344,7 +9312,7 @@ Encoding: 314 314 260
 Width: 327
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9364,7 +9332,7 @@ Encoding: 318 318 261
 Width: 327
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9384,7 +9352,7 @@ Encoding: 316 316 262
 Width: 327
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9404,7 +9372,7 @@ Encoding: 320 320 263
 Width: 313
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9433,7 +9401,7 @@ Encoding: 60 60 264
 Width: 540
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9490,7 +9458,7 @@ Encoding: 8804 8804 265
 Width: 582
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9523,7 +9491,7 @@ Encoding: 172 172 266
 Width: 607
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9559,7 +9527,7 @@ Encoding: 9674 9674 267
 Width: 570
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9608,10 +9576,10 @@ SplineSet
  59 373 l 257
  262 771 l 257
 440 373 m 257
- 289 679 l 257
- 132 374 l 257
- 286 66 l 257
- 440 373 l 257
+ 431 390 298 662 289 679 c 257
+ 280 662 141 391 132 374 c 257
+ 141 357 277 83 286 66 c 257
+ 295 84 431 356 440 373 c 257
 EndSplineSet
 EndChar
 
@@ -9634,20 +9602,20 @@ Fore
 SplineSet
 2 282 m 1
  2 347 l 1
- 87 394 l 1
+ 87 393.764705882 l 1
  87 752 l 1
  176 762 l 1
- 176 443 l 1
+ 176 442.730103806 l 1
  291 506 l 1
  291 441 l 1
- 176 378 l 1
+ 176 377.730103806 l 1
  176 152 l 2
  176 73 186 66 245 62 c 2
  275 61 l 1
  268 -4 l 1
  231 -4 l 2
  137 -4 87 22 87 151 c 2
- 87 329 l 1
+ 87 328.764705882 l 1
  2 282 l 1
 EndSplineSet
 EndChar
@@ -9657,7 +9625,7 @@ Encoding: 109 109 269
 Width: 896
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9706,7 +9674,7 @@ Encoding: 175 175 270
 Width: 558
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9731,7 +9699,7 @@ Encoding: 65540 -1 271
 Width: 294
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9747,7 +9715,7 @@ Encoding: 8722 8722 272
 Width: 570
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9823,7 +9791,7 @@ Encoding: 110 110 274
 Width: 589
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9865,7 +9833,7 @@ Encoding: 324 324 275
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9885,7 +9853,7 @@ Encoding: 329 329 276
 Width: 590
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9905,7 +9873,7 @@ Encoding: 328 328 277
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9925,7 +9893,7 @@ Encoding: 326 326 278
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9945,7 +9913,7 @@ Encoding: 57 57 279
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -9989,7 +9957,7 @@ Encoding: 8800 8800 280
 Width: 531
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10059,7 +10027,7 @@ Encoding: 241 241 281
 Width: 589
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10079,7 +10047,7 @@ Encoding: 35 35 282
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10142,7 +10110,7 @@ Encoding: 111 111 283
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10199,7 +10167,7 @@ Encoding: 243 243 284
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10219,7 +10187,7 @@ Encoding: 335 335 285
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10239,7 +10207,7 @@ Encoding: 244 244 286
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10259,7 +10227,7 @@ Encoding: 246 246 287
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10279,7 +10247,7 @@ Encoding: 339 339 288
 Width: 932
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10353,7 +10321,7 @@ Encoding: 731 731 289
 Width: 374
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10391,7 +10359,7 @@ Encoding: 242 242 290
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10411,7 +10379,7 @@ Encoding: 337 337 291
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10431,7 +10399,7 @@ Encoding: 333 333 292
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10451,7 +10419,7 @@ Encoding: 49 49 293
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10492,7 +10460,7 @@ Encoding: 189 189 294
 Width: 864
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10553,7 +10521,7 @@ Encoding: 188 188 295
 Width: 849
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10635,7 +10603,7 @@ Encoding: 186 186 297
 Width: 471
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10717,27 +10685,27 @@ Fore
 SplineSet
 297 56 m 0
  400 56 444 144 444 264 c 0
- 444 335 429 394 397 431 c 1
- 212 83 l 1
- 234 65 262 56 297 56 c 0
-400 520 m 1
+ 444 334.837669787 429.406112745 393.734886366 397.353047309 430.949660586 c 1
+ 212.137586468 83.475021374 l 1
+ 234.103471747 65.8582510657 262.190968465 56 297 56 c 0
+400.233892918 520.300490578 m 1
  445 605 l 1
  480 586 l 1
- 435 501 l 1
- 501 455 536 373 536 265 c 0
+ 434.821493422 501.242576392 l 1
+ 501.114041688 455.74131173 536 372.622272177 536 265 c 0
  536 101 450 -10 297 -10 c 0
- 251 -10 210 0 177 18 c 1
+ 250.796639996 -10 210.804183299 -0.00854685458857 177.45472417 18.4080177383 c 1
  125 -80 l 1
  93 -61 l 1
- 146 40 l 1
- 88 88 58 167 58 265 c 0
+ 146.211131827 39.6778801049 l 1
+ 88.5530609501 87.4017313092 58 166.675499594 58 265 c 0
  58 432 142 540 297 540 c 0
- 336 540 370 533 400 520 c 1
-185 113 m 1
- 367 457 l 1
- 348 468 324 474 297 474 c 0
+ 335.967639751 540 370.447792997 533.173964189 400.233892918 520.300490578 c 1
+185.120932513 113.296991631 m 1
+ 366.614181557 456.690468513 l 1
+ 347.350609402 467.915758195 324.23835221 474 297 474 c 0
  194 474 149 387 149 264 c 0
- 149 203 160 150 185 113 c 1
+ 149 203.073642782 160.342286401 150.396221129 185.120932513 113.296991631 c 1
 EndSplineSet
 EndChar
 
@@ -10766,7 +10734,7 @@ Encoding: 245 245 300
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -10786,7 +10754,7 @@ Encoding: 112 112 301
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10832,7 +10800,7 @@ Encoding: 182 182 302
 Width: 559
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10872,7 +10840,7 @@ Encoding: 40 40 303
 Width: 378
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10930,7 +10898,7 @@ Encoding: 41 41 304
 Width: 378
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10988,7 +10956,7 @@ Encoding: 8706 8706 305
 Width: 577
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11019,7 +10987,7 @@ Encoding: 37 37 306
 Width: 792
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11093,7 +11061,7 @@ Encoding: 46 46 307
 Width: 309
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11147,7 +11115,7 @@ Encoding: 183 183 308
 Width: 316
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11201,7 +11169,7 @@ Encoding: 8240 8240 309
 Width: 1142
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11261,7 +11229,7 @@ Encoding: 960 960 310
 Width: 705
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11302,7 +11270,7 @@ Encoding: 43 43 311
 Width: 557
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11364,7 +11332,7 @@ Encoding: 177 177 312
 Width: 554
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11411,7 +11379,7 @@ Encoding: 8719 8719 313
 Width: 750
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11469,7 +11437,7 @@ Encoding: 113 113 314
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11515,7 +11483,7 @@ Encoding: 63 63 315
 Width: 450
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11558,7 +11526,7 @@ Encoding: 191 191 316
 Width: 450
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11586,7 +11554,7 @@ Encoding: 34 34 317
 Width: 343
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11616,7 +11584,7 @@ Encoding: 8222 8222 318
 Width: 373
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11643,7 +11611,7 @@ Encoding: 8220 8220 319
 Width: 442
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11673,7 +11641,7 @@ Encoding: 8221 8221 320
 Width: 442
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11703,7 +11671,7 @@ Encoding: 8216 8216 321
 Width: 256
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11728,7 +11696,7 @@ Encoding: 8217 8217 322
 Width: 256
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11753,7 +11721,7 @@ Encoding: 8218 8218 323
 Width: 224
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11775,7 +11743,7 @@ Encoding: 39 39 324
 Width: 202
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11797,7 +11765,7 @@ Encoding: 114 114 325
 Width: 382
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11837,7 +11805,7 @@ Encoding: 341 341 326
 Width: 403
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11857,7 +11825,7 @@ Encoding: 8730 8730 327
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -11906,8 +11874,8 @@ SplineSet
  31 350 l 257
  24 409 l 257
  151 439 l 257
- 293 29 l 257
- 487 833 l 257
+ 198 302 250 170 293 29 c 257
+ 352 279 427 583 487 833 c 257
 EndSplineSet
 EndChar
 
@@ -11916,7 +11884,7 @@ Encoding: 345 345 328
 Width: 403
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11936,7 +11904,7 @@ Encoding: 343 343 329
 Width: 403
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11956,7 +11924,7 @@ Encoding: 174 174 330
 Width: 903
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12012,7 +11980,7 @@ Encoding: 730 730 331
 Width: 347
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12042,7 +12010,7 @@ Encoding: 115 115 332
 Width: 479
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12107,7 +12075,7 @@ Encoding: 347 347 333
 Width: 472
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12127,7 +12095,7 @@ Encoding: 353 353 334
 Width: 472
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12147,7 +12115,7 @@ Encoding: 351 351 335
 Width: 472
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12164,7 +12132,7 @@ Encoding: 349 349 336
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12184,7 +12152,7 @@ Encoding: 537 537 337
 Width: 472
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12201,7 +12169,7 @@ Encoding: 167 167 338
 Width: 524
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12277,7 +12245,7 @@ Encoding: 59 59 339
 Width: 349
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12317,7 +12285,7 @@ Encoding: 55 55 340
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12354,7 +12322,7 @@ Encoding: 54 54 341
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12398,7 +12366,7 @@ Encoding: 47 47 342
 Width: 473
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12452,7 +12420,7 @@ Encoding: 65541 -1 343
 Width: 416
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12506,7 +12474,7 @@ Encoding: 32 32 344
 Width: 257
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12532,7 +12500,7 @@ Encoding: 163 163 345
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12866,7 +12834,7 @@ Encoding: 8721 8721 346
 Width: 519
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12914,7 +12882,7 @@ Encoding: 116 116 347
 Width: 390
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -12960,7 +12928,7 @@ Encoding: 359 359 348
 Width: 391
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12971,33 +12939,8 @@ p4
 s."
 LayerCount: 2
 Fore
-SplineSet
-286 -4 m 2
- 136 -4 113 37 113 163 c 2
- 113 264 l 1
- 46 264 l 1
- 46 313 l 1
- 113 313 l 1
- 113 474 l 1
- 29 474 l 1
- 32 523 l 1
- 115 528 l 1
- 128 671 l 1
- 202 676 l 1
- 202 528 l 1
- 342 528 l 1
- 342 474 l 1
- 202 474 l 1
- 202 313 l 1
- 332 313 l 1
- 332 264 l 1
- 202 264 l 1
- 202 163 l 2
- 202 80 207 64 286 61 c 2
- 339 59 l 1
- 335 -4 l 1
- 286 -4 l 2
-EndSplineSet
+Refer: 347 116 N 1 0 0 1 0 0 2
+Refer: 270 175 N 1 0 0 1 -83 -384 2
 EndChar
 
 StartChar: tcaron
@@ -13005,7 +12948,7 @@ Encoding: 357 357 349
 Width: 417
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13025,7 +12968,7 @@ Encoding: 355 355 350
 Width: 399
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13086,7 +13029,7 @@ SplineSet
 304 540 m 0
  448 540 512 425 512 265 c 0
  512 100 431 -10 287 -10 c 0
- 223 -10 173 14 141 48 c 1
+ 222.821422983 -10 173.35007674 14.2236742157 141 48.1867902749 c 1
  141 -225 l 1
  56 -225 l 1
  56 752 l 1
@@ -13098,7 +13041,7 @@ SplineSet
  379 56 421 137 421 265 c 0
  421 387 390 474 291 474 c 0
  186 474 141 395 141 273 c 0
- 141 223 141 172 141 122 c 1
+ 141 222.666666667 141 172.333333333 141 122 c 1
  173 78 224 56 282 56 c 0
 EndSplineSet
 EndChar
@@ -13108,7 +13051,7 @@ Encoding: 51 51 352
 Width: 608
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13159,7 +13102,7 @@ Encoding: 190 190 353
 Width: 854
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13228,7 +13171,7 @@ Encoding: 732 732 354
 Width: 483
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13257,7 +13200,7 @@ Encoding: 8482 8482 355
 Width: 1074
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13320,7 +13263,7 @@ Encoding: 50 50 356
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13364,7 +13307,7 @@ Encoding: 117 117 357
 Width: 592
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13406,7 +13349,7 @@ Encoding: 250 250 358
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13426,7 +13369,7 @@ Encoding: 365 365 359
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13446,7 +13389,7 @@ Encoding: 251 251 360
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13466,7 +13409,7 @@ Encoding: 252 252 361
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13486,7 +13429,7 @@ Encoding: 249 249 362
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13506,7 +13449,7 @@ Encoding: 369 369 363
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13526,7 +13469,7 @@ Encoding: 363 363 364
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13546,7 +13489,7 @@ Encoding: 95 95 365
 Width: 442
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13580,7 +13523,7 @@ Encoding: 160 160 366
 Width: -692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13617,7 +13560,7 @@ Encoding: 173 173 367
 Width: 429
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13639,7 +13582,7 @@ Encoding: 178 178 368
 Width: 383
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13673,7 +13616,7 @@ Encoding: 179 179 369
 Width: 427
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13711,7 +13654,7 @@ Encoding: 181 181 370
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13730,7 +13673,7 @@ Encoding: 185 185 371
 Width: 431
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13762,7 +13705,7 @@ Encoding: 452 452 372
 Width: 1313
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13791,7 +13734,7 @@ Encoding: 453 453 373
 Width: 1179
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13820,7 +13763,7 @@ Encoding: 454 454 374
 Width: 1048
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13849,7 +13792,7 @@ Encoding: 455 455 375
 Width: 927
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13869,7 +13812,7 @@ Encoding: 456 456 376
 Width: 824
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13889,7 +13832,7 @@ Encoding: 457 457 377
 Width: 599
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13918,7 +13861,7 @@ Encoding: 458 458 378
 Width: 1133
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13938,7 +13881,7 @@ Encoding: 459 459 379
 Width: 1030
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -13958,7 +13901,7 @@ Encoding: 460 460 380
 Width: 875
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -13987,7 +13930,7 @@ Encoding: 461 461 381
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14007,7 +13950,7 @@ Encoding: 462 462 382
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14027,7 +13970,7 @@ Encoding: 463 463 383
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14047,7 +13990,7 @@ Encoding: 464 464 384
 Width: 248
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14067,7 +14010,7 @@ Encoding: 465 465 385
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14087,7 +14030,7 @@ Encoding: 466 466 386
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14107,7 +14050,7 @@ Encoding: 467 467 387
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14124,10 +14067,10 @@ EndChar
 
 StartChar: uni01D4
 Encoding: 468 468 388
-Width: 592
+Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14138,8 +14081,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 83 -4 2
-Refer: 357 117 N 1 0 0 1 0 0 3
+Refer: 357 117 N 1 0 0 1 0 0 2
+Refer: 165 711 N 1 0 0 1 62 0 2
 EndChar
 
 StartChar: uni01E2
@@ -14147,7 +14090,7 @@ Encoding: 482 482 389
 Width: 784
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14167,7 +14110,7 @@ Encoding: 488 488 390
 Width: 644
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14178,16 +14121,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 156 177 2
-Refer: 60 75 N 1 0 0 1 0 0 3
+Refer: 165 711 N 1 0 0 1 120 183 2
+Refer: 60 75 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01E9
 Encoding: 489 489 391
-Width: 536
+Width: 520
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14198,7 +14141,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 256 107 N 1 0 0 1 0 0 3
+Refer: 256 107 N 1 0 0 1 0 0 2
 Refer: 165 711 N 1 0 0 1 140 32 2
 EndChar
 
@@ -14207,7 +14150,7 @@ Encoding: 490 490 392
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14227,7 +14170,7 @@ Encoding: 491 491 393
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14247,7 +14190,7 @@ Encoding: 496 496 394
 Width: 290
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14267,7 +14210,7 @@ Encoding: 497 497 395
 Width: 1313
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -14296,7 +14239,7 @@ Encoding: 498 498 396
 Width: 1226
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -14325,7 +14268,7 @@ Encoding: 499 499 397
 Width: 1095
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -14354,7 +14297,7 @@ Encoding: 500 500 398
 Width: 721
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14371,10 +14314,10 @@ EndChar
 
 StartChar: uni01F5
 Encoding: 501 501 399
-Width: 588
+Width: 616
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14385,8 +14328,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 134 180 N 1 0 0 1 114 10 2
-Refer: 220 103 N 1 0 0 1 0 0 3
+Refer: 220 103 N 1 0 0 1 0 0 2
+Refer: 134 180 N 1 0 0 1 125 0 2
 EndChar
 
 StartChar: uni01F8
@@ -14394,7 +14337,7 @@ Encoding: 504 504 400
 Width: 744
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14405,16 +14348,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 227 96 N 1 0 0 1 145 191 2
-Refer: 69 78 N 1 0 0 1 0 0 3
+Refer: 227 96 N 1 0 0 1 153 190 2
+Refer: 69 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F9
 Encoding: 505 505 401
-Width: 589
+Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14425,8 +14368,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 227 96 N 1 0 0 1 70 10 2
-Refer: 274 110 N 1 0 0 1 0 0 3
+Refer: 274 110 N 1 0 0 1 0 0 2
+Refer: 227 96 N 1 0 0 1 95 0 2
 EndChar
 
 StartChar: uni0200
@@ -14434,7 +14377,7 @@ Encoding: 512 512 402
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14454,7 +14397,7 @@ Encoding: 513 513 403
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14474,7 +14417,7 @@ Encoding: 514 514 404
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14494,7 +14437,7 @@ Encoding: 515 515 405
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14514,7 +14457,7 @@ Encoding: 516 516 406
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14534,7 +14477,7 @@ Encoding: 517 517 407
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14554,7 +14497,7 @@ Encoding: 518 518 408
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14574,7 +14517,7 @@ Encoding: 519 519 409
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14594,7 +14537,7 @@ Encoding: 520 520 410
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14614,7 +14557,7 @@ Encoding: 522 522 411
 Width: 475
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14634,7 +14577,7 @@ Encoding: 524 524 412
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14654,7 +14597,7 @@ Encoding: 525 525 413
 Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14674,7 +14617,7 @@ Encoding: 526 526 414
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14685,16 +14628,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 160 785 N 1 0 0 1 198 152 2
-Refer: 74 79 N 1 0 0 1 0 0 3
+Refer: 160 785 N 1 0 0 1 196 190 2
+Refer: 74 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni020F
 Encoding: 527 527 415
-Width: 593
+Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14705,8 +14648,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 160 785 N 1 0 0 1 98 -29 2
-Refer: 283 111 N 1 0 0 1 0 0 3
+Refer: 160 785 N 1 0 0 1 100 8 2
+Refer: 283 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0210
@@ -14714,7 +14657,7 @@ Encoding: 528 528 416
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14734,7 +14677,7 @@ Encoding: 529 529 417
 Width: 403
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14754,7 +14697,7 @@ Encoding: 530 530 418
 Width: 660
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14774,7 +14717,7 @@ Encoding: 531 531 419
 Width: 403
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14794,7 +14737,7 @@ Encoding: 532 532 420
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14814,7 +14757,7 @@ Encoding: 533 533 421
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14834,7 +14777,7 @@ Encoding: 534 534 422
 Width: 710
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14854,7 +14797,7 @@ Encoding: 535 535 423
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14874,7 +14817,7 @@ Encoding: 538 538 424
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14894,7 +14837,7 @@ Encoding: 539 539 425
 Width: 399
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14914,7 +14857,7 @@ Encoding: 542 542 426
 Width: 752
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14934,7 +14877,7 @@ Encoding: 543 543 427
 Width: 566
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14954,7 +14897,7 @@ Encoding: 550 550 428
 Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14974,7 +14917,7 @@ Encoding: 551 551 429
 Width: 546
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -14994,7 +14937,7 @@ Encoding: 552 552 430
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15014,7 +14957,7 @@ Encoding: 553 553 431
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15034,7 +14977,7 @@ Encoding: 558 558 432
 Width: 791
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15045,16 +14988,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 286 145 2
-Refer: 74 79 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 287 183 2
+Refer: 74 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni022F
 Encoding: 559 559 433
-Width: 593
+Width: 598
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15065,8 +15008,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 186 -36 2
-Refer: 283 111 N 1 0 0 1 0 0 3
+Refer: 283 111 N 1 0 0 1 0 0 2
+Refer: 190 729 N 1 0 0 1 191 0 2
 EndChar
 
 StartChar: uni0232
@@ -15074,7 +15017,7 @@ Encoding: 562 562 434
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15085,16 +15028,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 436 713 N 1 0 0 1 188 138 2
-Refer: 121 89 N 1 0 0 1 0 0 3
+Refer: 270 175 N 1 0 0 1 55 190 2
+Refer: 121 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0233
 Encoding: 563 563 435
-Width: 552
+Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15105,8 +15048,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 436 713 N 1 0 0 1 129 -43 2
-Refer: 477 121 N 1 0 0 1 0 0 3
+Refer: 477 121 N 1 0 0 1 0 0 2
+Refer: 270 175 N 1 0 0 1 -7 8 2
 EndChar
 
 StartChar: uni02C9
@@ -15114,7 +15057,7 @@ Encoding: 713 713 436
 Width: 292
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15136,7 +15079,7 @@ Encoding: 775 775 437
 Width: 213
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15161,7 +15104,7 @@ Encoding: 7682 7682 438
 Width: 670
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15181,7 +15124,7 @@ Encoding: 7683 7683 439
 Width: 595
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15201,7 +15144,7 @@ Encoding: 7690 7690 440
 Width: 732
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15212,8 +15155,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 268 145 2
-Refer: 20 68 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 252 183 2
+Refer: 20 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0B
@@ -15221,7 +15164,7 @@ Encoding: 7691 7691 441
 Width: 601
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15241,7 +15184,7 @@ Encoding: 7710 7710 442
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15252,16 +15195,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 224 145 2
-Refer: 37 70 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 250 183 2
+Refer: 37 70 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E1F
 Encoding: 7711 7711 443
-Width: 371
+Width: 381
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15272,7 +15215,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 213 102 N 1 0 0 1 0 0 3
+Refer: 213 102 N 1 0 0 1 0 0 2
 Refer: 190 729 N 1 0 0 1 111 182 2
 EndChar
 
@@ -15281,7 +15224,7 @@ Encoding: 7744 7744 444
 Width: 886
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15292,16 +15235,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 332 145 2
-Refer: 68 77 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 340 183 2
+Refer: 68 77 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E41
 Encoding: 7745 7745 445
-Width: 896
+Width: 899
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15312,8 +15255,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 378 -36 2
-Refer: 269 109 N 1 0 0 1 0 0 3
+Refer: 269 109 N 1 0 0 1 0 0 2
+Refer: 190 729 N 1 0 0 1 378 0 2
 EndChar
 
 StartChar: uni1E56
@@ -15321,7 +15264,7 @@ Encoding: 7766 7766 446
 Width: 638
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15332,16 +15275,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 194 145 2
-Refer: 86 80 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 228 183 2
+Refer: 86 80 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E57
 Encoding: 7767 7767 447
-Width: 596
+Width: 608
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15352,8 +15295,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 220 -36 2
-Refer: 301 112 N 1 0 0 1 0 0 3
+Refer: 301 112 N 1 0 0 1 0 0 2
+Refer: 190 729 N 1 0 0 1 209 -8 2
 EndChar
 
 StartChar: uni1E60
@@ -15361,7 +15304,7 @@ Encoding: 7776 7776 448
 Width: 596
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15372,16 +15315,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 192 145 2
-Refer: 92 83 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 193 191 2
+Refer: 92 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E61
 Encoding: 7777 7777 449
-Width: 479
+Width: 472
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15392,8 +15335,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 138 -36 2
-Refer: 332 115 N 1 0 0 1 0 0 3
+Refer: 332 115 N 1 0 0 1 0 0 2
+Refer: 190 729 N 1 0 0 1 128 0 2
 EndChar
 
 StartChar: uni1E6A
@@ -15401,7 +15344,7 @@ Encoding: 7786 7786 450
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15412,16 +15355,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 170 145 2
-Refer: 98 84 N 1 0 0 1 0 0 3
+Refer: 190 729 N 1 0 0 1 172 183 2
+Refer: 98 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E6B
 Encoding: 7787 7787 451
-Width: 390
+Width: 399
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15432,7 +15375,7 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 347 116 N 1 0 0 1 0 0 3
+Refer: 347 116 N 1 0 0 1 0 0 2
 Refer: 190 729 N 1 0 0 1 61 97 2
 EndChar
 
@@ -15441,7 +15384,7 @@ Encoding: 7868 7868 452
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15461,7 +15404,7 @@ Encoding: 7869 7869 453
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15481,7 +15424,7 @@ Encoding: 7928 7928 454
 Width: 666
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15501,7 +15444,7 @@ Encoding: 7929 7929 455
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15521,7 +15464,7 @@ Encoding: 8308 8308 456
 Width: 342
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15557,7 +15500,7 @@ Encoding: 8467 8467 457
 Width: 594
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15587,7 +15530,8 @@ SplineSet
  411 474 l 258
  489 536 538 593 538 676 c 256
  538 712 518 751 472 751 c 256
- 385 751 379 668 356 575 c 258
+ 463 751 453 749 442 746 c 256
+ 385 729 377 659 356 575 c 258
  309 393 l 257
 EndSplineSet
 EndChar
@@ -15597,7 +15541,7 @@ Encoding: 8486 8486 458
 Width: 782
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15613,7 +15557,7 @@ Encoding: 8710 8710 459
 Width: 626
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -15675,7 +15619,7 @@ Encoding: 8725 8725 460
 Width: 431
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15691,7 +15635,7 @@ Encoding: 8729 8729 461
 Width: 316
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -15739,7 +15683,7 @@ Encoding: 64256 64256 462
 Width: 743
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15761,7 +15705,7 @@ Encoding: 64257 64257 463
 Width: 661
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15783,7 +15727,7 @@ Encoding: 64258 64258 464
 Width: 685
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15805,7 +15749,7 @@ Encoding: 64259 64259 465
 Width: 1033
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15828,7 +15772,7 @@ Encoding: 64260 64260 466
 Width: 1056
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15851,7 +15795,7 @@ Encoding: 371 371 467
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15863,7 +15807,7 @@ s."
 LayerCount: 2
 Fore
 Refer: 357 117 N 1 0 0 1 0 0 2
-Refer: 289 731 N 1 0 0 1 241 0 2
+Refer: 289 731 N 1 0 0 1 263 0 2
 EndChar
 
 StartChar: uring
@@ -15871,7 +15815,7 @@ Encoding: 367 367 468
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15891,7 +15835,7 @@ Encoding: 361 361 469
 Width: 591
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15965,7 +15909,7 @@ Encoding: 119 119 471
 Width: 736
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -16008,7 +15952,7 @@ Encoding: 7811 7811 472
 Width: 722
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16028,7 +15972,7 @@ Encoding: 373 373 473
 Width: 722
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16045,10 +15989,10 @@ EndChar
 
 StartChar: wdieresis
 Encoding: 7813 7813 474
-Width: 736
+Width: 722
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16059,8 +16003,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 187 168 N 1 0 0 1 146 -30 2
-Refer: 471 119 N 1 0 0 1 0 0 3
+Refer: 471 119 N 1 0 0 1 0 0 2
+Refer: 187 168 N 1 0 0 1 133 0 2
 EndChar
 
 StartChar: wgrave
@@ -16068,7 +16012,7 @@ Encoding: 7809 7809 475
 Width: 743
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16088,7 +16032,7 @@ Encoding: 120 120 476
 Width: 516
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -16130,7 +16074,7 @@ Encoding: 121 121 477
 Width: 552
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -16168,7 +16112,7 @@ Encoding: 253 253 478
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16188,7 +16132,7 @@ Encoding: 375 375 479
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16208,7 +16152,7 @@ Encoding: 255 255 480
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16271,13 +16215,13 @@ Fore
 SplineSet
 126 249 m 1
  126 303 l 1
- 259 303 l 1
+ 259.222222222 303 l 1
  37 711 l 1
  127 711 l 1
  333 334 l 1
  534 711 l 1
  629 711 l 1
- 409 303 l 1
+ 409.034782609 303 l 1
  528 303 l 1
  528 249 l 1
  381 249 l 1
@@ -16301,7 +16245,7 @@ Encoding: 7923 7923 482
 Width: 552
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16321,7 +16265,7 @@ Encoding: 122 122 483
 Width: 494
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -16361,7 +16305,7 @@ Encoding: 378 378 484
 Width: 447
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16378,10 +16322,10 @@ EndChar
 
 StartChar: zcaron
 Encoding: 382 382 485
-Width: 494
+Width: 447
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16392,16 +16336,16 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 165 711 N 1 0 0 1 36 -4 2
-Refer: 483 122 N 1 0 0 1 0 0 3
+Refer: 483 122 N 1 0 0 1 0 0 2
+Refer: 165 711 N 1 0 0 1 14 0 2
 EndChar
 
 StartChar: zdotaccent
 Encoding: 380 380 486
-Width: 494
+Width: 447
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16412,8 +16356,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 190 729 N 1 0 0 1 136 -36 2
-Refer: 483 122 N 1 0 0 1 0 0 3
+Refer: 483 122 N 1 0 0 1 0 0 2
+Refer: 190 729 N 1 0 0 1 121 0 2
 EndChar
 
 StartChar: zero
@@ -16421,7 +16365,7 @@ Encoding: 48 48 487
 Width: 615
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -16480,7 +16424,7 @@ Encoding: 65542 -1 488
 Width: 1000
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -16489,7 +16433,7 @@ Encoding: 931 931 489
 Width: 519
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16514,7 +16458,7 @@ Encoding: 956 956 490
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16541,7 +16485,7 @@ Encoding: 8709 8709 491
 Width: 819
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16576,7 +16520,7 @@ Encoding: 937 937 492
 Width: 782
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16605,7 +16549,7 @@ Encoding: 856 856 493
 Width: 213
 VWidth: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16622,7 +16566,7 @@ Encoding: 601 601 494
 Width: 558
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 ."
 LayerCount: 2
